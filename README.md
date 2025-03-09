@@ -5,8 +5,7 @@ I work with **Spring Boot**, **Angular**, and love exploring new technologies.
 
 🔭 **What you’ll find here:**  
 - 🚀 **Projects:** My hands-on experiments and real-world applications  
-- 📚 **Learning Resources:** Helpful materials and guides  
-- ✍️ **Tech Insights:** Lessons from my development journey  
+- 📚 **Learning Resources:** Helpful materials and guides
 
 📫 **Let’s connect:**  
 Find me on [**LinkedIn**](https://www.linkedin.com/in/rutujapujare/)
